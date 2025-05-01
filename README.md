@@ -15,6 +15,14 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 ## Technology Stack
 
+- **Django:** A high-level python web framework used for building the RESTful API.
+- **Django REST Framework(DRF):** Provides tools for managing RESTful APIs.
+- **PostgreSQL:** A powerful relational database use for data storage.
+- **GraphQL:** Allows for flexible and effiecient querying for data.
+- **Celery:** For handling asynchronous tasks such as sending notifications or processing payments.
+- **Redis:** Used for caching and session management.
+- **Docker:** Containerization tool for consistent development and deployment environment.
+- **CI/CD Pipelines:** Automated pipelines for testing and deploying code changes.
 
 ## Database Design
 
