@@ -115,4 +115,11 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 ## CI/CD Pipeline
 
-##
+A Continous Integration(CI)/Continous Delivery/Deployment(CD) pipelines automates the software development process, streamlining how code is integrated, tested and deployed. It's a series of test that help teams deliver software faster and more reliably.
+
+### Tools Used for CI/CD
+
+- Jenkins
+- Github Actions
+- Circle CI
+- AWS Codepipeline
