@@ -99,6 +99,20 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 ## API Security
 
+### Security measures that will be implemented
+
+- **Rate Limiting:** It is the practice of limiting the number of requests a user or client can make to an API within a given time frame. This helps to prevent abuse, misuse or overloading of the API infrastructure.
+
+- **Authentication:** This ensures only authorised users or applications can access API's functionalities and data. This will be implemented through the use of `Token-Based Authentication(JWT)`.
+
+- **Authorisation:** This determines the action an authenticated users can perform based of their roles. For example, only the owner of a review can edit or delete their review.
+
+### Why Security is Crucial
+
+- To maintain business continuity because attacks can disrupt business operations
+- To ensure secure payment for users
+- Protection of users sensitive data.
+
 ## CI/CD Pipeline
 
 ##
