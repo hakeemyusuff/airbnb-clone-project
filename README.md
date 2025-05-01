@@ -8,8 +8,8 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - **UI/UX Designer:** A UI/UX designer is a proffesional who focuses on desining digital products(like website, mobile apps) that are both user-friendly, visually appealing and easy to interact with interface. They will be responsible for designing the interfaces of the `airbnb-clone-project`.
 - **Software Developer:** A software developer does the actual job and codes an application. There are front-end and backend developers.
 
-    - **Front-end developers:** They create the part of an application that users interact with, ensuring that an app offers an equally smooth experience to all, no matter the devices, platform, or operating system. In the `airbnb-clone-project` they will be responsible for coding out the designs that the UI/UX Designer had workd on and also integrating the APIs.
-    - **Backend developers:** They  implement the core of an app, its algorithms and business logic. Exprerienced backend developers not only write code but also do the tasks of an architect, for example, devise an app architecture or design and implement necessary integrations. They will be responsible for designing the database and exposing all necessary endpoints for the frontend developers to consume in the `airbnb-clone-project`.
+  - **Front-end developers:** They create the part of an application that users interact with, ensuring that an app offers an equally smooth experience to all, no matter the devices, platform, or operating system. In the `airbnb-clone-project` they will be responsible for coding out the designs that the UI/UX Designer had workd on and also integrating the APIs.
+  - **Backend developers:** They  implement the core of an app, its algorithms and business logic. Exprerienced backend developers not only write code but also do the tasks of an architect, for example, devise an app architecture or design and implement necessary integrations. They will be responsible for designing the database and exposing all necessary endpoints for the frontend developers to consume in the `airbnb-clone-project`.
 
 - **Quality Assurancce:** The job of QA is to verify whether an application meets the requirement both functional and non-functional by running various checks. Their responsibility in the project will be to test out the functonality of the developed application by the software developers.
 
@@ -78,6 +78,24 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - A review belong to a user and a property
 
 ## Feature Breakdown
+
+- **API Documentations:** The backend API are documented to ensure clarity and ease of integration
+
+- **User Authentcation:** Users must be able to register, authenticate and manage their profiles.
+
+- **Property Management:** Implement creating, updating, retrieving and deleting of property listings.
+
+- **Booking System:** Implement making, updating and management of bookings.
+
+- **Payment Processing:** Handle payment transactions related to bookings.
+
+- **Review System:** Post and manage reviews for properties.
+
+- **Database Optimization**
+
+  - **Indexing:** Implement indexes for fast retrieval of frequently accessed data.
+
+  - **Caching:** Use caching strategies to reduce database load and improve perfomance.
 
 ## API Security
 
