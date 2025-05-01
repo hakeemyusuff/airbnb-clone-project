@@ -2,7 +2,7 @@
 
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
 
-## Team roles
+## Team Roles
 
 - **Product Owner:** A product owner is a decision maker, balancing both business needs and market trends, they define business strategy, shape up the product vision and make sure it satisfies customer needs. They will be responsible for making sure the `airbnb-clone-project` meet up with the requirement of the customers.
 - **UI/UX Designer:** A UI/UX designer is a proffesional who focuses on desining digital products(like website, mobile apps) that are both user-friendly, visually appealing and easy to interact with interface. They will be responsible for designing the interfaces of the `airbnb-clone-project`.
