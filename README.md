@@ -26,6 +26,57 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 ## Database Design
 
+### Key Entities
+
+#### 1 Users
+
+- `user_id`
+- `email`
+- `profile_picture`
+- `prefers_email_notification`
+- `roles`
+
+#### 2 Properties
+
+- `Property_id`
+- `name`
+- `property_type`
+- `location`
+- `availability`
+- `price`
+
+#### 3 Bookings
+
+- `booking_id`
+- `user`(foreign key -> Users)
+- `property` (foreign key -> Properties)
+- `start_at`
+- `ends_at`
+- `created_at`
+
+#### 4 Reviews
+
+- `review_id`
+- `user`(foreign key -> Users)
+- `property` (foreign key -> Properties)
+- `review`
+- `created_at`
+
+#### 5 Payments
+
+- `payment_id`
+- `user`(foreign key -> Users)
+- `property` (foreign key -> Properties)
+- `payment_status`
+
+### Relationships
+
+- A  user can have multiple bookings
+- A user can have many reviews
+- A user can book many properties
+- A booking belongs to a user and a property
+- A review belong to a user and a property
+
 ## Feature Breakdown
 
 ## API Security
